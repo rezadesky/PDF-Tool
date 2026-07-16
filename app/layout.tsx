@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import { Outfit, Work_Sans } from "next/font/google"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import Navbar from "@/components/navbar"
 import "./globals.css"
 
@@ -20,6 +21,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer className="hidden border-t border-border py-5 text-center text-xs text-secondary sm:block">
           PDF Tool — All processing happens in your browser. Nothing is uploaded.
         </footer>
+        <SpeedInsights />
       </body>
     </html>
   )

@@ -70,3 +70,4 @@ pdf-tool/
 ## License
 
 MIT
+<!-- trigger pull shark 2026-10-12T02:53:19.7409264+07:00 -->

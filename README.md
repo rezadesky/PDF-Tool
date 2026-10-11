@@ -1,5 +1,9 @@
 # PDF Tool
 
+[![CI Status](https://github.com/rezadesky/PDF-Tool/actions/workflows/ci.yml/badge.svg)](https://github.com/rezadesky/PDF-Tool/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/v/release/rezadesky/PDF-Tool?color=0284c7)](https://github.com/rezadesky/PDF-Tool/releases)
+
 > Merge and split PDFs directly in your browser. 100% client-side, no uploads, no signup, free forever.
 
 PDF Tool is a browser-based utility for merging and splitting PDF files. All processing happens locally on your device — your files never leave your computer.
